@@ -42,7 +42,7 @@ html, body{
 }
 
 .sectionFooter {
-    color: #f7f7f7;
+	color: #f7f7f7;
 }
 
 .sectionInnerFooter {
@@ -90,7 +90,7 @@ html, body{
 	text-shadow: 2px 3px #001E39;
 	font-weight: bold;
 	width: 90%;
-    margin: 0 auto;
+	margin: 0 auto;
 }
 
 .headerH1Br {
@@ -112,13 +112,13 @@ html, body{
 
 .button {
 	background: #00E777;
-    color: #f7f7f7;
-    font-size: 23px;
-    font-weight: bold;
-    padding: 20px 50px;
-    border-radius: 11px;
-    display: table;
-    margin: 0 auto;
+	color: #f7f7f7;
+	font-size: 23px;
+	font-weight: bold;
+	padding: 20px 50px;
+	border-radius: 11px;
+	display: table;
+	margin: 0 auto;
 }
 
 .button:hover {
@@ -136,29 +136,29 @@ html, body{
 input,
 select {
 	-webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    outline: 0;
-    border: 1px solid #ddd;
-    border-radius: 11px;
-    font-size: 17px;
-    width: 100%;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	outline: 0;
+	border: 1px solid #ddd;
+	border-radius: 11px;
+	font-size: 17px;
+	width: 100%;
 	max-width: 300px;
-    padding: 15px 10px;
-    margin: 0px auto;
-    color: #555;
+	padding: 15px 10px;
+	margin: 0px auto;
+	color: #555;
 }
 
 .headerVideoLink {
-    color: #f7f7f7;
-    margin: 15px auto 0px auto;
-    display: table;
+	color: #f7f7f7;
+	margin: 15px auto 0px auto;
+	display: table;
 }
 
 .headerVideoLink img {
 	margin-right: 3px;
-    height: 13px;
-    width: auto;
+	height: 13px;
+	width: auto;
 }
 
 .headerVideoLink span:hover {
@@ -168,21 +168,21 @@ select {
 
 .logosImage {
 	width: 90%;
-    max-width: 1000px;
-    margin: 15px auto;
+	max-width: 1000px;
+	margin: 15px auto;
 	-webkit-filter: grayscale(100%);
-    -moz-filter: grayscale(100%);
-    filter: grayscale(100%);
-    opacity: 0.5;
-    -webkit-transition: all 0.2s ease-in-out;
-    -moz-transition: all 0.2s ease-in-out;
-    -o-transition: all 0.2s ease-in-out;
+	-moz-filter: grayscale(100%);
+	filter: grayscale(100%);
+	opacity: 0.5;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
 }
 
 .sectionTitle {
 	font-size: 25px;
-    font-weight: bold;
-    color: #001E39;
+	font-weight: bold;
+	color: #001E39;
 }
 
 .sectionSubtitle {
@@ -198,10 +198,10 @@ select {
 
 .sportsTab {
 	text-align: center;
-    margin: 0 auto;
-    display: inline-block;
-    background: #f3f2f1;
-    padding: 15px 25px;	
+	margin: 0 auto;
+	display: inline-block;
+	background: #f3f2f1;
+	padding: 15px 25px;
 }
 
 .sportsTab:hover {
@@ -230,34 +230,34 @@ select {
 
 .predictiveSearch {
 	display: table;
-    width: 90%;
-    max-width: 400px;
+	width: 90%;
+	max-width: 400px;
 }
 
 .newsletterText {
-    color: #fff;
-    margin: 20px auto 30px auto;
-    font-size: 20px;
+	color: #fff;
+	margin: 20px auto 30px auto;
+	font-size: 20px;
 	line-height: 23px;
 	width: 90%;
 }
 
 .inputNewsletter {
 	border-radius: 0;
-    border-top-left-radius: 11px;
-    border-bottom-left-radius: 11px;
-    width: 300px;
-    float: left;
+	border-top-left-radius: 11px;
+	border-bottom-left-radius: 11px;
+	width: 300px;
+	float: left;
 	border: 0;
 }
 
 .buttonNewsletter {
 	border-radius: 0;
-    border-top-right-radius: 11px;
-    border-bottom-right-radius: 11px;
-    float: left;
+	border-top-right-radius: 11px;
+	border-bottom-right-radius: 11px;
+	float: left;
 	font-size: 20px;
-    padding: 15px 50px;
+	padding: 15px 50px;
 }
 
 
@@ -272,13 +272,13 @@ select {
 	padding: 0px 20px;
 	margin: 20px auto;
 	width: 100%;
-    max-width: 300px;
+	max-width: 300px;
 	vertical-align: top;
 }
 
 .testimonialText {
 	font-size: 15px;
-    line-height: 20px;
+	line-height: 20px;
 	text-align: justify;
 }
 
@@ -304,8 +304,8 @@ select {
 .howItWorksHalf {
 	display: inline-block;
 	vertical-align: top;
-    text-align: center;
-    margin: 0 auto;
+	text-align: center;
+	margin: 0 auto;
 	max-width: 550px;
 }
 
@@ -320,9 +320,9 @@ select {
 
 .howItWorksH1 {
 	margin: 20px auto 20px auto;
-    font-size: 30px;
-    font-weight: bold;
-    color: #00E777;
+	font-size: 30px;
+	font-weight: bold;
+	color: #00E777;
 }
 
 .howItWorksH2 {
@@ -330,33 +330,33 @@ select {
 }
 
 .howItWorksNumber {
-    display: table;
-    margin: 0px auto 7px auto;
-    font-size: 20px;
-    font-weight: bold;
-    color: #f7f7f7;
-    background-color: #00D0FF;
-    padding: 19px 23px;
-    border-radius: 100%;
+	display: table;
+	margin: 0px auto 7px auto;
+	font-size: 20px;
+	font-weight: bold;
+	color: #f7f7f7;
+	background-color: #00D0FF;
+	padding: 19px 23px;
+	border-radius: 100%;
 }
 
 .howItWorksText {
 	max-width: 230px;
-    margin: 0 auto;
+	margin: 0 auto;
 	font-size: 17px;
 	line-height: 20px;
 }
 
 .howItWorksLine {
 	height: 40px;
-    width: 2px;
-    border-left: 3px dotted #00d0ff;
-    margin: 10px auto;
+	width: 2px;
+	border-left: 3px dotted #00d0ff;
+	margin: 10px auto;
 }
 
 .howItWorksHalf iframe {
 	display: table;
-    margin: 0 auto;
+	margin: 0 auto;
 	max-width: 90%;
 }
 
@@ -371,14 +371,14 @@ select {
 
 .faqTab {
 	display: table;
-    width: 90%;
-    max-width: 700px;
+	width: 90%;
+	max-width: 700px;
 	margin: 15px auto;
 	border: 1px solid #ddd;
 }
 
-.faqQuestion {	
-	text-align: left;	
+.faqQuestion {
+	text-align: left;
 	font-weight: bold;
 	background-color: #eee;
 }
@@ -407,10 +407,10 @@ select {
 }
 
 .teamsContainer{
-    display: table;
-    margin: 40px auto 40px auto;
-    width: 100%;
-    max-width: 900px;
+	display: table;
+	margin: 40px auto 40px auto;
+	width: 100%;
+	max-width: 900px;
 }
 
 .teamTab {
@@ -433,54 +433,54 @@ select {
 
 .pricesContainer {
 	display: table;
-    margin: 40px auto 40px auto;
-    width: 100%;
-    max-width: 1000px;
+	margin: 40px auto 40px auto;
+	width: 100%;
+	max-width: 1000px;
 }
 
 .pricesTab {
 	display: table;
 	width: 95%;
 	background: #eee;
-	border: 1px solid #ddd;	
+	border: 1px solid #ddd;
 	margin: 20px auto;
 }
 
 .pricesTabTeamName {
 	display: table;
-    width: 25%;    
-    float: left;
+	width: 25%;
+	float: left;
 	text-align: left;
-    font-size: 17px;
+	font-size: 17px;
 	font-weight: bold;
-    color: #001e39;
+	color: #001e39;
 	text-indent: 20px;
 	padding: 30px 0px 30px 0px;
 }
 
 .pricesTabPricesContainer {
 	display: table;
-    width: 50%;
-    float: left;
+	width: 50%;
+	float: left;
 }
 
 .pricesTabButtonContainer {
 	display: table;
-    width: 25%;    
+	width: 25%;
 	float: left;
 	padding: 15px 0px;
 }
 
 .buttonPricesSelectSeats {
 	font-size: 17px;
-    padding: 15px 30px;
+	padding: 15px 30px;
 }
 
 .pricesTabContainerHalf {
 	display: table;
 	width: 50%;
 	float: left;
-    font-size: 17px;
+	font-size: 17px;
 	line-height: 20px;
 	padding: 7px 0px 3px 0px;
 }
@@ -511,9 +511,9 @@ select {
 
 .pricesTab:hover {
 	cursor: pointer;
-    background: #001e39;
-    border: 1px solid transparent;
-    color: #f7f7f7;
+	background: #001e39;
+	border: 1px solid transparent;
+	color: #f7f7f7;
 }
 
 .pricesTab:hover > .pricesTabTeamName {
@@ -521,17 +521,17 @@ select {
 }
 
 .seatsContainer{
-    display: table;
-    margin: 60px auto 30px auto;
-    width: 90%;
-    max-width: 900px;
+	display: table;
+	margin: 60px auto 30px auto;
+	width: 90%;
+	max-width: 900px;
 }
 
 .seatsStadiumContainer {
 	display: inline-block;
 	vertical-align: top;
-    width: 100%;
-    max-width: 50%;
+	width: 100%;
+	max-width: 50%;
 }
 
 .seatsStadiumContainer img {
@@ -542,7 +542,7 @@ select {
 .seatsInfoContainer {
 	display: inline-block;
 	vertical-align: top;
-    width: 50%;
+	width: 50%;
 	vertical-align:top;
 }
 
@@ -553,12 +553,12 @@ select {
 
 .seatsText {
 	font-size: 20px;
-    margin: 10px 0px;
+	margin: 10px 0px;
 }
 
 .seatsTextSmall {
 	font-size: 15px;
-    font-style: italic;
+	font-style: italic;
 }
 
 .seatsPrice {
@@ -566,21 +566,21 @@ select {
 }
 
 .buttonAddToCart {
-    font-size: 17px;
-    padding: 15px 30px;
-    margin: 20px auto 0px auto;
+	font-size: 17px;
+	padding: 15px 30px;
+	margin: 20px auto 0px auto;
 }
 
 .checkoutContainer{
-    display: table;
-    margin: 30px auto 0px auto;
-    width: 90%;
-    max-width: 900px;
+	display: table;
+	margin: 30px auto 0px auto;
+	width: 90%;
+	max-width: 900px;
 }
 
 .checkoutInfo {
 	width: 100%;
-    max-width: 410px;
+	max-width: 410px;
 	display: inline-block;
 	vertical-align: top;
 }
@@ -594,7 +594,7 @@ select {
 	max-width: 100%;
 }
 
-.checkutInput {
+.checkoutInput {
 	margin: 5px auto;
 }
 
@@ -609,14 +609,14 @@ select {
 	width: 200px;
 	text-align: center;
 	font-size: 17px;
-    padding: 17px 0px;
+	padding: 17px 0px;
 	display: inline-block;
 	vertical-align: top;
 }
 
 .checkoutSummary {
 	width: 100%;
-    max-width: 300px;	
+	max-width: 300px;
 	display: inline-block;
 	vertical-align: top;
 	vertical-align: top;
@@ -633,12 +633,12 @@ select {
 }
 
 .checkoutSummaryTotal {
-    margin: 20px auto 0px auto;
-    padding-top: 10px;
-    border-top: 1px solid #ddd;
-    display: table;
-    width: 200px;
-    font-size: 20px;
+	margin: 20px auto 0px auto;
+	padding-top: 10px;
+	border-top: 1px solid #ddd;
+	display: table;
+	width: 200px;
+	font-size: 20px;
 }
 
 .checkoutSummaryTotalText {
@@ -650,38 +650,84 @@ select {
 	font-weight: bold;
 }
 
+.loginRegisterContainer {
+	display: table;
+	width: 90%;
+	max-width: 410px;
+	margin: 0 auto;
+}
+
+.loginTabButton {
+	display: inline-block;
+	width: 50%;
+	padding: 20px 0px;
+	margin: 20px auto;
+}
+
+.loginTabActive {
+	background: #ddd;
+}
+
+.loginTabButton:hover {
+	cursor: pointer;
+	background: #eee;
+}
+
+.loginTabActive:hover {
+	background: #ddd;
+}
+
+.loginRegisterTab {
+	display: none;
+}
+
+.loginRegisterTabActive {
+	display: block;
+}
+
+.buttonLoginRegister {
+	width: 200px;
+	text-align: center;
+	font-size: 17px;
+	padding: 17px 0px;
+	display: inline-block;
+	vertical-align: top;
+	margin: 20px auto;
+}
+
+
 
 /*------------------------------------- MEDIA QUERIES -----------------------------*/
 @media only screen and (max-width: 900px) {
 	.haederH1 {
 		font-size: 40px;
 	}
-	
+
 	.haederH2 {
 		margin-top: 20px;
 		margin-bottom: 35px;
 		font-size: 23px;
 	}
-	
+
 	.button {
 		font-size: 20px;
 		padding: 15px 40px;
 	}
-	
+
 	.howItWorksHalf_1 {
 		width: 100%;
 	}
-	
+
 	.howItWorksHalf_2 {
 		width: 100%;
 		margin-top: 30px;
 	}
-	
+
 	.buttonPricesSelectSeats {
 		font-size: 17px;
 		padding: 15px 30px;
 	}
-	
+
 	.buttonPay {
 		padding: 15px 0px;
 	}
@@ -696,15 +742,15 @@ select {
 	.sportsTabText {
 		font-size: 17px;
 	}
-	
+
 	.pricesTabTeamName {
 		width: 25%;
 	}
-	
+
 	.pricesTabPricesContainer {
 		width: 45%;
 	}
-	
+
 	.pricesTabButtonContainer {
 		width: 30%;
 	}
@@ -717,30 +763,30 @@ select {
 		width: 45%;
 		margin: 20px 10px;
 	}
-	
+
 	.pricesTabTeamName {
 		width: 100%;
 		float: none;
 		text-align: center;
 	}
-	
+
 	.pricesTabPricesContainer {
 		width: 100%;
 		float: none;
 		text-align: center;
 	}
-	
+
 	.pricesTabButtonContainer {
 		width: 100%;
 		float: none;
 		text-align: center;
 	}
-	
+
 	.pricesTabTeamName {
 		padding: 20px 0px 10px 0px;
 		text-indent: 0;
 	}
-	
+
 	.priceTabOurSmall {
 		display: block;
 	}
@@ -753,53 +799,53 @@ select {
 		width: 300px;
 		margin: 10px auto;
 	}
-	
+
 	.sportsContainer {
 		border: none;
 		width: 90%;
 		margin: 20px auto 30px auto;
 	}
-	
+
 	.sportsTabIcon {
 		display: inline-block;
 		vertical-align: top;
 	}
-	
+
 	.sportsTabText {
 		display: inline-block;
 		vertical-align: top;
 		margin-left: 20px;
 	}
-	
+
 	.haederH1 {
 		font-size: 35px;
 		line-height: 43px;
 		text-shadow: 1px 2px #001E39;
 	}
-	
+
 	.headerH1Br {
 		display: initial;
 	}
-	
+
 	.logo {
 		margin: 20px auto;
 	}
-	
+
 	.teamTab {
 		max-width: 30%;
 	}
-	
+
 	.seatsContainer {
 		margin: 30px auto 20px auto;
 	}
-	
+
 	.seatsStadiumContainer {
 		display: block;
 		width: 100%;
 		max-width: 500px;
 		margin: 0 auto;
 	}
-	
+
 	.seatsInfoContainer {
 		display: block;
 		width: 90%;
@@ -812,67 +858,54 @@ select {
 	.sectionHeader {
 		height: 70vh;
 	}
-	
+
 	.newsletterText {
 		margin-bottom: 15px;
 	}
-	
+
 	.inputNewsletter {
 		width: 300px;
 		float: none;
 		border-radius: 11px;
 	}
-	
+
 	.buttonNewsletter {
 		float: none;
 		margin-top: 15px;
 		border-radius: 11px;
 	}
-	
+
 	.sportsTab {
 		width: 270px;
 	}
-	
+
 	.sectionPadding {
 		padding: 40px 0px;
 	}
-	
+
 	.teamTab {
 		max-width: 40%;
 	}
-	
+
 	.pricesTab {
 		display: inline-block;
 		vertical-align: top;
 		width: 90%;
 		margin: 20px auto;
 	}
-	
+
 	.checkoutInputHalf {
 		width: 49.1%;
 		max-width: 100%;
 	}
-	
+
 	.checkoutInputFull {
 		width: 100%;
 		max-width: 100%;
 	}
-	
+
 	.buttonPay {
 		width: 100%;
 		margin-top: 20px;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
