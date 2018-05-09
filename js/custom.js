@@ -34,5 +34,14 @@ $(document).ready(function(){
 			$('#registerTab').addClass('loginRegisterTabActive');
 		}
 	});
+	
+	
+	
+	
+	
+	
+	$('.checkoutTerms').on('click',function(){
+		$('.checkoutTermsContainer').toggle();
+	});
 
 }); // document ready
