@@ -40,8 +40,15 @@ $(document).ready(function(){
 	
 	
 	
-	$('.checkoutTerms').on('click',function(){
-		$('.checkoutTermsContainer').toggle();
+	$('a').on('click',function(){
+		$('#loaderBIGOuter').fadeIn('fast');
+	});
+	
+	
+	
+	
+	$(window).on('load',function(){
+		$('#loaderBIGOuter').fadeOut('fast');
 	});
 
 }); // document ready
