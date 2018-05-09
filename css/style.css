@@ -10,7 +10,9 @@ html, body{
 }
 
 
-
+.loader {
+	
+}
 
 .section {
 	display: table;
@@ -203,6 +205,7 @@ textarea {
 	display: inline-block;
 	background: #f3f2f1;
 	padding: 15px 25px;
+	text-decoration: none;
 }
 
 .sportsTab:hover {
@@ -424,6 +427,7 @@ textarea {
 	color: #001e39;
 	padding: 15px 1%;
 	border: 1px solid transparent;
+	text-decoration: none;
 }
 
 .teamTab:hover {

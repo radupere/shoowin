@@ -53,10 +53,16 @@
 			<div class="sectionSubtitle">Share With Your Friends</div>
 			
 			<div class="thankyouContainer">
-				<input type="text" class="checkoutInput checkoutInputFull" placeholder="To - add multiple addresses separated by commas"/>
-				<input type="text" class="checkoutInput checkoutInputFull" placeholder="From"/>
-				<input type="text" class="checkoutInput checkoutInputFull" placeholder="Subject"/>
-				<textarea class="checkoutInput checkoutInputFull" rows="5" placeholder="Message"/></textarea>
+				<input type="text" class="checkoutInput checkoutInputFull" placeholder="Email (Separate multiple addresses with commas)" value="" />
+				<input type="text" class="checkoutInput checkoutInputFull" placeholder="From" value="{{USER NAME}}" />
+				<input type="text" class="checkoutInput checkoutInputFull" placeholder="Subject" value="I just locked in my eve {{TICKET_NUMBER}} tickets! Are you coming with me?" />
+				<textarea class="checkoutInput checkoutInputFull" rows="5" placeholder="Message"/>
+					Hey, 
+
+					I just bought 2 reservations to see Air Force Falcons in eve {{TICKET_NUMBER}} at a great price from ShooWin! We definitely have to go together. Check out {{RESERVE_URL}} so you can get the same deal I did before prices got up after the {{TICKET_NUMBER}}'s next win. 
+
+					Lets Go! radu
+				</textarea>
 				<div class="button buttonThankyou">SEND</div>
 			</div>
 			

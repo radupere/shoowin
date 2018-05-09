@@ -12,10 +12,10 @@ $(document).ready(function(){
 
 
 	$('#headerButton').on('click',function(){
-		$('html').animate({ scrollTop: $('.sectionLogos').offset().top }, 700);
+		$('html,body').animate({ scrollTop: $('.sectionLogos').offset().top }, 700);
 	});
 	$('#headerHowItWorks').on('click',function(){
-		$('html').animate({ scrollTop: $('.sectionHowItWorks').offset().top }, 700);
+		$('html,body').animate({ scrollTop: $('.sectionHowItWorks').offset().top }, 700);
 	});
 
 
