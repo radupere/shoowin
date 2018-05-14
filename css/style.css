@@ -993,6 +993,7 @@ ol, ul {
 		display: inline-block;
 		vertical-align: top;
 		margin-left: 10px;
+		margin-top: 25px;
 	}
 
 	.haederH1 {
