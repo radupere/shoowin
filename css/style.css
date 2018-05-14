@@ -845,6 +845,20 @@ ol, ul {
 	font-weight: bold;
 }
 
+.breadcrumbsContainer {
+	padding: 15px 0px;
+	background: #eee;
+}
+
+.breadcrumbLink {
+	color: #555;
+}
+
+.breadcrumbLink:hover {
+	text-decoration: underline;
+}
+
+
 /*------------------------------------- MEDIA QUERIES -----------------------------*/
 @media only screen and (max-width: 900px) {
 	.haederH1 {
