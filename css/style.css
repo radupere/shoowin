@@ -854,6 +854,7 @@ ol, ul {
 .breadcrumbLink {
 	color: #555;
 	margin: 0px 5px;
+	font-weight: bold;
 }
 
 .breadcrumbLink:hover {
