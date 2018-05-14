@@ -42,7 +42,7 @@ $(document).ready(function(){
 	});
 	
 	
-	$('a').on('click',function(){
+	$('.logo, .sportsTab, .teamTab, .buttonPricesSelectSeats, .buttonAddToCart').on('click',function(){
 		$('#loaderBIGOuter').fadeIn('fast');
 	});
 	
