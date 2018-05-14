@@ -9,8 +9,13 @@ $(document).ready(function(){
 		$('#faqAnswer_' + $(this).attr('id').split('_')[1]).toggle();
 	});
 
+	$('#showMoreFAQ').on('click',function(){
+		$('.faqTabsHidden').show();
+	});
 
 
+
+	/*----------------------- SCROLL TO DIV -------------------*/
 	$('#headerButton').on('click',function(){
 		$('html,body').animate({ scrollTop: $('.sectionLogos').offset().top }, 700);
 	});
@@ -34,24 +39,25 @@ $(document).ready(function(){
 			$('#registerTab').addClass('loginRegisterTabActive');
 		}
 	});
-	
-	
-	
+
+
+	/*----------------------- CHECKOUT -------------------*/
 	$('.checkoutTerms span').on('click',function(){
 		$('.checkoutTermsContainer').toggle();
 	});
-	
-	
+
+
+	/*----------------------- SPORTS TEAMS -------------------*/
 	$('.logo, .sportsTab, .teamTab, .buttonPricesSelectSeats, .buttonAddToCart').on('click',function(){
 		$('#loaderBIGOuter').fadeIn('fast');
 	});
 
 
-	$('#showMoreFAQ').on('click',function(){
-		$('.faqTabsHidden').show();
-	});
-	
-	
+
+
+
+
+
 	
 	$(window).on('load',function(){
 		$('#loaderBIGOuter').fadeOut('fast');
