@@ -10,8 +10,16 @@ $(document).ready(function(){
 	});
 
 	$('#showMoreFAQ').on('click',function(){
-		$('.faqAnswer').hide();
-		$('.faqTabsHidden').show();
+
+		if( $('.faqTabsHidden').css('display') == 'none' ) {
+			$('.faqAnswer').hide();
+			$('.faqTabsHidden').show();
+			$('#showMoreFAQ').html('Show less');
+		} else {
+			$('.faqAnswer').hide();
+			$('.faqTabsHidden').hide();
+			$('#showMoreFAQ').html('Show more');
+		}
 	});
 
 
