@@ -45,7 +45,11 @@ $(document).ready(function(){
 	$('.logo, .sportsTab, .teamTab, .buttonPricesSelectSeats, .buttonAddToCart').on('click',function(){
 		$('#loaderBIGOuter').fadeIn('fast');
 	});
-	
+
+
+	$('#showMoreFAQ').on('click',function(){
+		$('.faqTabsHidden').show();
+	});
 	
 	
 	
