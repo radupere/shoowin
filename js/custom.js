@@ -10,7 +10,6 @@ $(document).ready(function(){
 	});
 
 	$('#showMoreFAQ').on('click',function(){
-
 		if( $('.faqTabsHidden').css('display') == 'none' ) {
 			$('.faqAnswer').hide();
 			$('.faqTabsHidden').show();
