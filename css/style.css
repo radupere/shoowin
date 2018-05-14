@@ -269,9 +269,11 @@ textarea {
 	margin: 5px;
 	display: inline-block;
 	background: #f3f2f1;
-	padding: 15px 25px;
+	padding: 15px 0;
 	text-decoration: none;
 	border: 1px solid #ddd;
+	width: 100%;
+	max-width: 200px;
 }
 
 .sportsTab:hover {
@@ -873,9 +875,7 @@ ol, ul {
 
 /*------------------------------------- MEDIA QUERIES -----------------------------*/
 @media only screen and (max-width: 1000px) {
-	.sportsContainer {
-		width: 500px;
-	}
+
 }
 
 @media only screen and (max-width: 900px) {
@@ -915,12 +915,6 @@ ol, ul {
 
 
 @media only screen and (max-width: 800px) {
-	.sportsContainer {
-		width: 400px;
-	}
-	.sportsTabIcon {
-		height: 50px;
-	}
 
 	.sportsTabText {
 		font-size: 17px;
@@ -979,7 +973,8 @@ ol, ul {
 	.sportsTab {
 		border: 1px solid #ddd;
 		display: table;
-		width: 300px;
+		width: 400px;
+		max-width: 90%;
 		margin: 10px auto;
 	}
 
@@ -1059,7 +1054,7 @@ ol, ul {
 	}
 
 	.sportsTab {
-		width: 270px;
+		width: 90%;
 	}
 
 	.sectionPadding {
