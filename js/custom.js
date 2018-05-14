@@ -10,6 +10,7 @@ $(document).ready(function(){
 	});
 
 	$('#showMoreFAQ').on('click',function(){
+		$('.faqAnswer').hide();
 		$('.faqTabsHidden').show();
 	});
 
