@@ -259,7 +259,8 @@ textarea {
 
 .sportsContainer {
 	display: table;
-	max-width: 90%;
+	max-width: 700px;
+	width: 90%;
 	margin: 40px auto 40px auto;
 }
 
