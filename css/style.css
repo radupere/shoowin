@@ -9,6 +9,9 @@ html, body{
 	font-family: 'Roboto', sans-serif;
 }
 
+a {
+	text-decoration: none;
+}
 
 /* ----------------- LOADER PURE CSS ------------------ */
     #loaderBIGOuter {
@@ -515,14 +518,13 @@ textarea {
 
 .pricesTabTeamName {
 	display: table;
-	width: 25%;
+	width: 23%;
 	float: left;
 	text-align: left;
 	font-size: 17px;
 	font-weight: bold;
 	color: #001e39;
-	text-indent: 20px;
-	padding: 30px 0px 30px 0px;
+	padding: 30px 0px 30px 2%;
 }
 
 .pricesTabPricesContainer {

@@ -37,7 +37,9 @@ $(document).ready(function(){
 	
 	
 	
-	
+	$('.checkoutTerms span').on('click',function(){
+		$('.checkoutTermsContainer').toggle();
+	});
 	
 	
 	$('a').on('click',function(){
