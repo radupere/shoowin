@@ -974,7 +974,7 @@ ol, ul {
 		border: 1px solid #ddd;
 		display: table;
 		width: 400px;
-		max-width: 90%;
+		max-width: 95%;
 		margin: 10px auto;
 	}
 
@@ -1030,6 +1030,10 @@ ol, ul {
 		max-width: 90%;
 		margin: 20px auto 0px auto;
 	}
+
+	.testimonialTab {
+		padding: 0;
+	}
 }
 
 @media only screen and (max-width: 500px) {
@@ -1054,7 +1058,8 @@ ol, ul {
 	}
 
 	.sportsTab {
-		width: 90%;
+		width: 100%;
+		max-width: 95%;
 	}
 
 	.sectionPadding {
