@@ -837,7 +837,12 @@ ol, ul {
 	-o-transform-origin: 0 0;
 	-moz-transform-origin: 0 0;
 	-webkit-transform-origin: 0 0;
-	
+}
+
+.thankyouClickA {
+	text-decoration: underline;
+	color: #00D0FF;
+	font-weight: bold;
 }
 
 /*------------------------------------- MEDIA QUERIES -----------------------------*/
