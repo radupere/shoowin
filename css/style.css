@@ -871,6 +871,12 @@ ol, ul {
 
 
 /*------------------------------------- MEDIA QUERIES -----------------------------*/
+@media only screen and (max-width: 1000px) {
+	.sportsContainer {
+		width: 500px;
+	}
+}
+
 @media only screen and (max-width: 900px) {
 	.haederH1 {
 		font-size: 40px;
@@ -908,6 +914,9 @@ ol, ul {
 
 
 @media only screen and (max-width: 800px) {
+	.sportsContainer {
+		width: 400px;
+	}
 	.sportsTabIcon {
 		height: 50px;
 	}
