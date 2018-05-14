@@ -483,6 +483,11 @@ textarea {
 	text-decoration: underline;
 	color: #00d0ff;
 	font-weight: bold;
+	margin-top: 35px;
+}
+
+#showMoreFAQ:hover {
+	cursor: pointer;
 }
 
 .teamsContainer{
