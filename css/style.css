@@ -186,6 +186,7 @@ a {
 	border-radius: 11px;
 	display: table;
 	margin: 0 auto;
+	text-decoration: none;
 }
 
 .button:hover {
@@ -651,6 +652,10 @@ textarea {
 	margin: 20px auto 0px auto;
 }
 
+.addToCartNotify {
+	border: 1px solid #00d0ff;
+}
+
 .checkoutContainer{
 	display: table;
 	margin: 30px auto 0px auto;
@@ -685,7 +690,8 @@ textarea {
 	margin: 20px auto;
 }
 
-.buttonPay {
+.buttonPay,
+.buttonLoginRegister {
 	width: 200px;
 	text-align: center;
 	font-size: 17px;
