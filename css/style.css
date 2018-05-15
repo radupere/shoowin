@@ -662,6 +662,7 @@ textarea {
 
 .addToCartNotify a {
 	color: #001e39;
+	font-weight: bold;
 	text-decoration: underline;
 }
 
