@@ -904,6 +904,7 @@ ol, ul {
 .modal {
 	display: table;
 	width: 90%;
+	max-width: 900px;
 	background: #f7f7f7;
 	border: 1px solid #ddd;
 	box-shadow: 0px 0px 20px #888;
@@ -919,7 +920,6 @@ ol, ul {
 	display: table;
 	margin: 40px auto;
 	width: 100%;
-	max-width: 700px;
 	text-align: center;
 }
 
