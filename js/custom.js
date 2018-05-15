@@ -64,6 +64,16 @@ $(document).ready(function(){
 
 
 
+	/*----------------------- MODAL ----------------------------*/
+	$('.modalOverlay').height( document.body.scrollHeight );
+
+	$('.addToCartNotify a').on('click', function(){
+		$('.modalOverlay').fadeIn('fast');
+	});
+
+	$('.modalClose').on('click', function(){
+		$('.modalOverlay').hide();
+	});
 
 
 	
