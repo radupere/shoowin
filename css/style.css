@@ -653,7 +653,16 @@ textarea {
 }
 
 .addToCartNotify {
-	border: 1px solid #00d0ff;
+	border: 1px dashed #001e39;
+	margin-top: 40px;
+	padding: 20px 0px;
+	font-size: 17px;
+	color: #001e39;
+}
+
+.addToCartNotify a {
+	color: #001e39;
+	text-decoration: underline;
 }
 
 .checkoutContainer{
